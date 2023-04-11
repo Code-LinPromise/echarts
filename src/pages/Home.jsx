@@ -3,7 +3,7 @@ import "./style.scss"
 import Chart1 from "../Component/Chart1";
 import Chart2 from "../Component/Chart2";
 import Chart3 from "../Component/Chart3";
-
+import Chart4 from  "../Component/Chart4"
 import Chart5 from "../Component/Chart5";
 import Chart6 from "../Component/Chart6";
 import Chart7 from "../Component/Chart7";
@@ -33,7 +33,7 @@ const Home=()=>{
                     <Chart3/>
                 </div>
                 <div className=" test4">
-                    
+                    <Chart4/>
                 </div>
                 <div className=" test5">
                     <Chart5/>
