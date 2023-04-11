@@ -1,0 +1,22 @@
+.main {
+  position: relative;
+  top: 1.5625rem;
+  left: 1.171875rem;
+}
+.main span {
+  color: #1DF4FA;
+}
+.main .iconfont {
+  font-weight: 900;
+}
+.main .user {
+  font-size: 14px;
+}
+.main .number {
+  font-size: 20px;
+  position: absolute;
+  top: 3.125rem;
+  left: 1.171875rem;
+}
+
+/*# sourceMappingURL=style.css.map */

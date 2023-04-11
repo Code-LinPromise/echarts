@@ -1,0 +1,300 @@
+.home {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #051134;
+  color: white;
+}
+.home > .header {
+  height: 7.734375rem;
+  background-size: cover;
+  background-image: url("../image/header.png");
+}
+.home main {
+  width: 98.828125rem;
+  height: 48.4375rem;
+  margin: 1.171875rem auto;
+  position: relative;
+  border: 1px solid #1C3165;
+  border-radius: 3px;
+}
+.home main > .test1 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.home main > .test2 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.home main > .test3 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 9.765625rem;
+  left: 0rem;
+  margin-bottom: 0;
+}
+.home main > .test4 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 9.765625rem;
+  left: 13.671875rem;
+  margin-bottom: 0;
+}
+.home main > .test5 {
+  width: 41.796875rem;
+  height: 16.015625rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  left: 27.34375rem;
+  margin-bottom: 0;
+}
+.home main > .test6 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+  position: absolute;
+  left: 70.3125rem;
+}
+.home main > .test7 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+  position: absolute;
+  left: 83.984375rem;
+}
+.home main > .test8 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 9.765625rem;
+  left: 70.3125rem;
+  margin-bottom: 0;
+}
+.home main > .test9 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 9.765625rem;
+  left: 83.984375rem;
+  margin-bottom: 0;
+}
+.home main > .test10 {
+  width: 26.171875rem;
+  height: 16.015625rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 17.1875rem;
+  left: 0rem;
+  margin-bottom: 0;
+}
+.home main > .test10 .main_pie {
+  position: absolute;
+  top: 0.78125rem;
+  left: 1.5625rem;
+  width: 26.171875rem;
+  height: 16.015625rem;
+}
+.home main > .test10 .font {
+  position: absolute;
+  top: 0.78125rem;
+  left: 0.78125rem;
+}
+.home main > .test10 .font span {
+  color: #1DF4FA;
+}
+.home main > .test10 .font .iconfont {
+  font-weight: 900;
+}
+.home main > .test10 .font .user {
+  font-size: 14px;
+}
+.home main > .test11 {
+  width: 41.796875rem;
+  height: 29.296875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 17.1875rem;
+  left: 27.34375rem;
+}
+.home main > .test11 .main_map {
+  width: 41.796875rem;
+  height: 29.296875rem;
+}
+.home main > .test11 .font {
+  position: absolute;
+  top: 0.78125rem;
+  left: 0.78125rem;
+}
+.home main > .test11 .font span {
+  color: #1DF4FA;
+}
+.home main > .test11 .font .iconfont {
+  font-weight: 900;
+}
+.home main > .test11 .font .user {
+  font-size: 14px;
+}
+.home main > .test12 {
+  width: 26.171875rem;
+  height: 12.109375rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 34.375rem;
+  left: 0rem;
+}
+.home main > .test12 .main_zhu {
+  width: 26.171875rem;
+  height: 12.109375rem;
+  position: absolute;
+  top: 2.34375rem;
+  left: 0.390625rem;
+}
+.home main > .test12 .font {
+  position: absolute;
+  top: 0.78125rem;
+  left: 0.78125rem;
+}
+.home main > .test12 .font span {
+  color: #1DF4FA;
+}
+.home main > .test12 .font .iconfont {
+  font-weight: 900;
+}
+.home main > .test12 .font .user {
+  font-size: 14px;
+}
+.home main > .test13 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+  position: absolute;
+  left: 70.3125rem;
+  top: 17.1875rem;
+}
+.home main > .test14 {
+  width: 12.5rem;
+  height: 7.421875rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+  position: absolute;
+  left: 70.3125rem;
+  top: 25.78125rem;
+}
+.home main > .test15 {
+  width: 12.5rem;
+  height: 16.015625rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  margin-bottom: 0;
+  position: absolute;
+  left: 83.984375rem;
+  top: 17.1875rem;
+}
+.home main > .test15 .font {
+  position: absolute;
+  top: 0.78125rem;
+  left: 0.234375rem;
+}
+.home main > .test15 .font span {
+  color: #1DF4FA;
+}
+.home main > .test15 .font .iconfont {
+  font-weight: 900;
+}
+.home main > .test15 .main {
+  width: 12.5rem;
+  height: 16.015625rem;
+  position: absolute;
+  top: 0.78125rem;
+  left: 0.78125rem;
+}
+.home main > .test16 {
+  width: 26.171875rem;
+  height: 12.109375rem;
+  border: 1px solid #091A4D;
+  background-color: #091A4D;
+  margin-top: 1.171875rem;
+  margin-left: 1.171875rem;
+  display: inline-block;
+  position: absolute;
+  top: 34.375rem;
+  left: 70.3125rem;
+}
+.home main > .test16 .main {
+  width: 26.171875rem;
+  height: 12.109375rem;
+  position: absolute;
+  left: -0.15625rem;
+  top: -0.3125rem;
+}
+
+/*# sourceMappingURL=style.css.map */

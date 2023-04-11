@@ -1,0 +1,296 @@
+@import "../shared/helper";
+
+.home {flex: 1;height: 100%;display: flex;flex-direction: column;
+  background: #051134; color: white;
+  > .header {
+    height: px(99);
+    background-size: cover;
+    background-image:url("../image/header.png") ;
+  }
+  main{
+    width: px(1265);
+    height: px(620);
+    margin: px(15) auto;
+    position: relative;
+    border: 1px solid  #1C3165;
+    border-radius: 3px;
+    >.test1{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+    }
+    >.test2{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+    }
+    >.test3{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(125);
+      left: px(0);
+      margin-bottom: 0;
+    }
+    >.test4{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(125);
+      left: px(175);
+      margin-bottom: 0;
+    }
+    >.test5{
+      width: px(535);
+      height: px(205);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      left: px(350);
+      margin-bottom: 0;
+    }
+    >.test6{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+      position: absolute;
+      left: px(900);
+    }
+    >.test7{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+      position: absolute;
+      left: px(1075);
+    }
+    >.test8{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(125);
+      left: px(900);
+      margin-bottom: 0;
+    }
+    >.test9{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(125);
+      left: px(1075);
+      margin-bottom: 0;
+    }
+    >.test10{
+      width: px(335);
+      height: px(205);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(220);
+      left: px(0);
+      margin-bottom: 0;
+      .main_pie{
+        position: absolute;
+        top: px(10);
+        left: px(20);
+        width: px(335);
+        height: px(205);
+      }
+      .font{
+        position: absolute;
+        top: px(10);
+        left: px(10);
+        span{
+          color: #1DF4FA;
+        }
+        .iconfont{
+          font-weight: 900;
+        }
+        .user{
+          font-size: 14px;
+        }
+      }
+    }
+    >.test11{
+      width: px(535);
+      height: px(375);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(220);
+      left: px(350);
+      .main_map{
+        width: px(535);
+        height: px(375);
+      }
+      .font{
+        position: absolute;
+        top: px(10);
+        left: px(10);
+        span{
+          color: #1DF4FA;
+        }
+        .iconfont{
+          font-weight: 900;
+        }
+        .user{
+          font-size: 14px;
+        }
+      }
+    }
+    >.test12{
+      width: px(335);
+      height: px(155);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(440);
+      left: px(0);
+      .main_zhu{
+        width: px(335);
+        height: px(155);
+        position:absolute ;
+        top: px(30);
+        left: px(5);
+      }
+      .font{
+        position: absolute;
+        top: px(10);
+        left: px(10);
+        span{
+          color: #1DF4FA;
+        }
+        .iconfont{
+          font-weight: 900;
+        }
+        .user{
+          font-size: 14px;
+        }
+      }
+    }
+    >.test13{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+      position: absolute;
+      left: px(900);
+      top: px(220);
+    }
+    >.test14{
+      width: px(160);
+      height: px(95);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+      position: absolute;
+      left: px(900);
+      top: px(330);
+    }
+    >.test15{
+      width: px(160);
+      height: px(205);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      margin-bottom: 0;
+      position: absolute;
+      left: px(1075);
+      top: px(220);
+      .font{
+        position: absolute;
+        top: px(10);
+        left: px(3);
+        span{
+          color: #1DF4FA;
+        }
+        .iconfont{
+          font-weight: 900;
+        }
+      }
+      .main{
+        width: px(160);
+        height: px(205);
+        position: absolute;
+        top: px(10);
+        left: px(10);
+      }
+    }
+    >.test16{
+      width: px(335);
+      height: px(155);
+      border: 1px solid #091A4D;
+      background-color: #091A4D;
+      margin-top: px(15);
+      margin-left: px(15);
+      display: inline-block;
+      position: absolute;
+      top: px(440);
+      left: px(900);
+      .main{
+        width: px(335);
+        height: px(155);
+        position: absolute;
+        left: px(-2);
+        top: px(-4);
+      }
+
+    }
+  }
+}

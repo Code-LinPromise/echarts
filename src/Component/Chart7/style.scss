@@ -1,0 +1,21 @@
+@import "../../shared/helper";
+.main{
+  position: relative;
+  top: px(20);
+  left: px(15);
+  span{
+    color: #1DF4FA;
+  }
+  .iconfont{
+    font-weight: 900;
+  }
+  .user{
+    font-size: 14px;
+  }
+  .number{
+    font-size: 20px;
+    position:absolute ;
+    top: px(40);
+    left: px(15);
+  }
+}
