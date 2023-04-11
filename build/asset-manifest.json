@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/echarts/dist/static/css/main.aa301757.css",
-    "main.js": "/echarts/dist/static/js/main.69fda7fb.js",
-    "static/media/header.png": "/echarts/dist/static/media/header.68811f86f37953ad2dc2.png",
-    "static/media/iconfont.ttf?t=1653227780225": "/echarts/dist/static/media/iconfont.8d65834b45ae153abe38.ttf",
-    "static/media/iconfont.woff?t=1653227780225": "/echarts/dist/static/media/iconfont.0d9c8188e6ae087a138c.woff",
-    "index.html": "/echarts/dist/index.html",
-    "static/media/iconfont.woff2?t=1653227780225": "/echarts/dist/static/media/iconfont.e86cb7b7e515c3945ca0.woff2",
-    "main.aa301757.css.map": "/echarts/dist/static/css/main.aa301757.css.map",
-    "main.69fda7fb.js.map": "/echarts/dist/static/js/main.69fda7fb.js.map"
+    "main.css": "/echarts/build/static/css/main.6456ea1a.css",
+    "main.js": "/echarts/build/static/js/main.69fda7fb.js",
+    "static/media/header.png": "/echarts/build/static/media/header.68811f86f37953ad2dc2.png",
+    "static/media/iconfont.ttf?t=1653227780225": "/echarts/build/static/media/iconfont.8d65834b45ae153abe38.ttf",
+    "static/media/iconfont.woff?t=1653227780225": "/echarts/build/static/media/iconfont.0d9c8188e6ae087a138c.woff",
+    "index.html": "/echarts/build/index.html",
+    "static/media/iconfont.woff2?t=1653227780225": "/echarts/build/static/media/iconfont.e86cb7b7e515c3945ca0.woff2",
+    "main.6456ea1a.css.map": "/echarts/build/static/css/main.6456ea1a.css.map",
+    "main.69fda7fb.js.map": "/echarts/build/static/js/main.69fda7fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa301757.css",
+    "static/css/main.6456ea1a.css",
     "static/js/main.69fda7fb.js"
   ]
 }
